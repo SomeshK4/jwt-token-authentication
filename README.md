@@ -1,4 +1,4 @@
-# Recruvia Backend
+# JWT Token Based Authentication
 ## Introduction
 This application use Spring Security with JWT Authentication to secure Jersey API's. Database provider used is MongoDB.
 
